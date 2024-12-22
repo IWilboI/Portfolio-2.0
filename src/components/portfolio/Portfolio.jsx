@@ -13,7 +13,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'The Java is Scripting',
+    title: 'Employee Payroll Tracker',
     github: 'https://github.com/IWilboI/The-Java-is-Scripting',
     demo: 'https://iwilboi.github.io/The-Java-is-Scripting/'
   },
