@@ -13,44 +13,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'The Java is Scripting',
+    github: 'https://github.com/IWilboI/The-Java-is-Scripting',
+    demo: 'https://iwilboi.github.io/The-Java-is-Scripting/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'The Blogging Blog',
+    github: 'https://github.com/IWilboI/Naming-Things-Is-Hard-For-No-Reason',
+    demo: 'https://iwilboi.github.io/Naming-Things-Is-Hard-For-No-Reason/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Logofy',
+    github: 'https://github.com/IWilboI/Logofy',
+    demo: 'https://www.youtube.com/watch?v=vHMFIU5bD2M'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Express Note Taker',
+    github: 'https://github.com/IWilboI/Express-Ticket-To-Knowledge',
+    demo: 'https://express-ticket-to-knowledge.onrender.com/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Blackjack & Coke',
+    github: 'https://github.com/cbaumgart004/jackBlacknCoke',
+    demo: 'https://cbaumgart004.github.io/jackBlacknCoke/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'JATE text editor',
+    github: 'https://github.com/IWilboI/Edit-That-Text',
+    demo: 'https://edit-that-text.onrender.com/'
   }
 ]
 
@@ -58,8 +58,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>Some of my projects</h5>
+      <h2>My apps</h2>
 
       <div className="container portfolio__container">
         {
